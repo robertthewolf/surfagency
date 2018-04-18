@@ -1,6 +1,21 @@
 body {
+    margin:0;
+    padding: 0;
     text-align: center;
     font: 18px sans-serif;
+}
+
+header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 80px;
+  background-color: #00d0eb;
+}
+
+.logo{
+  height: 50px;
 }
 
 h1 {
