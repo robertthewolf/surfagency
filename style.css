@@ -29,6 +29,10 @@ body {
     height: 100vh;
     color: white;
     text-shadow: 0px 0px 10px #1EB3D1;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 header{
