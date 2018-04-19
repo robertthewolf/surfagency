@@ -60,7 +60,3 @@ p {
     max-width: 500px;
     margin: 0 auto 4rem
 }
-
-a:last-of-type {
-    display: none !important;
-}
